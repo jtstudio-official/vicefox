@@ -1,5 +1,5 @@
   </p>
-  <h1 align="center"><b>ViceSite</b></h1>
+  <h1 align="center"><b>VFSite</b></h1>
   <p align="center">
    <p align="center">
   ViceFox site folked from ArcFox.
